@@ -50,37 +50,40 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-
-<img width="1269" height="516" alt="Screenshot 2025-09-26 110512" src="https://github.com/user-attachments/assets/2956e362-43dc-4446-a40c-01a409c0822a" />
+<img width="987" height="307" alt="image" src="https://github.com/user-attachments/assets/e437bd49-b0fa-4870-b456-dd585ea698ad" />
 
 
 Tabulation for Load Test:
 
-
-
-<img width="605" height="473" alt="Screenshot 2025-09-26 110631" src="https://github.com/user-attachments/assets/5525cd3c-e832-4dc8-a154-a4c42155b00d" />
-
+<img width="742" height="187" alt="image" src="https://github.com/user-attachments/assets/2c8a71a4-1427-4cb0-9068-fa4ba29ff4f6" />
 
 
 Model graph:
 
-<img width="355" height="269" alt="image" src="https://github.com/user-attachments/assets/0ad7cc15-539c-4514-ae5f-5a1833529d98" />
+Open circuit test
 
-<img width="295" height="301" alt="image" src="https://github.com/user-attachments/assets/d23a9eaf-76a0-4c43-8cdf-2fa56fef3c97" />
+<img width="692" height="305" alt="image" src="https://github.com/user-attachments/assets/3d8a6e35-3bee-49f1-b00c-4849b94e3b67" />
+
+Load circuit
 
 
-Open circuit characteristics:
+<img width="651" height="281" alt="image" src="https://github.com/user-attachments/assets/ab82831b-6b20-43c8-a8a5-6e264fcbc093" />
 
 
-<img width="1918" height="967" alt="Screenshot 2025-09-15 083857" src="https://github.com/user-attachments/assets/fcbac18f-a44e-49fc-b522-e01110d7d0e3" />
+Calculation: 
 
+Open circuit characteristics
+
+
+<img width="978" height="856" alt="image" src="https://github.com/user-attachments/assets/e8b64ba6-00cf-4460-9dc6-62e849315c52" />
 
   
 Load Characteristics:
 
+<img width="1354" height="633" alt="image" src="https://github.com/user-attachments/assets/97ea9188-70bb-4330-89d6-aa52f0ee08d0" />
 
-<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/5fe63e41-6de0-42c5-9fca-feb69e5798ec" />
+<img width="1367" height="478" alt="image" src="https://github.com/user-attachments/assets/9ff1a773-666a-4cd0-b057-e91649ff5b41" />
 
- 
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
