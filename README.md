@@ -52,10 +52,18 @@ Tabulation for Open Circuit Test
 
 <img width="987" height="307" alt="image" src="https://github.com/user-attachments/assets/e437bd49-b0fa-4870-b456-dd585ea698ad" />
 
+## DC shunt Generator on open Test Diagram
+
+<img width="1071" height="491" alt="image" src="https://github.com/user-attachments/assets/98097f59-5b4e-4196-a5da-151e4ea44829" />
+
 
 Tabulation for Load Test:
 
 <img width="742" height="187" alt="image" src="https://github.com/user-attachments/assets/2c8a71a4-1427-4cb0-9068-fa4ba29ff4f6" />
+
+## DC shunt Generator on load Test Diagram
+
+<img width="1062" height="340" alt="image" src="https://github.com/user-attachments/assets/126ac98b-d4f3-4f90-a2fc-b78e65e3bbd4" />
 
 
 Model graph:
